@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "insertionSortListTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests LabFiveTests.insertionSortListTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "insertionSortListTest2",
+      "setup": "",
+      "run": "gradle test --tests LabFiveTests.insertionSortListTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "insertionSortListTest3",
+      "setup": "",
+      "run": "gradle test --tests LabFiveTests.insertionSortListTest3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "insertionSortListTest4",
+      "setup": "",
+      "run": "gradle test --tests LabFiveTests.insertionSortListTest4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    }
+  ]
+}
